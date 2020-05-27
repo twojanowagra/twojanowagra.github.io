@@ -1,2 +1,5 @@
 name: Twoja Nowa gra
 markdown: kramdown
+
+include:
+ - _pages
