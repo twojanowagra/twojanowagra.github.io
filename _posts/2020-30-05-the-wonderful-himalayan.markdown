@@ -11,16 +11,15 @@ Steam czyli platforma do cyfrowej dystrybucji gier, co tydzień oferuje graczom 
 W weekend od 29.05 do 1.06 można zakupić te gry w przecenach sięgająchych aż 90%!
 
 W promocji znajdują się między innymi wszystkie części legendarnego klasyka Worms!
-![Image](/assets/img/worms.png)
 
 Robaczki, niby nie groźne stworzonka, a jednak. Robaki, w grze worms, potrafią się nieźle posługiwać wszelkiego rodzaju bronią. Rzucać świętymi granatami, puszczać wybuchające owce, czy też zlecać nalot bombowy. Wszystko to w walce o terytorium na losowo generowanym świecie. Twórcy gry umożliwiają wiele trybów gry. Każdy znajdzie coś dla siebie. Można grać samemu przeciwko komputerowi, jak i zniszczyć znajomych w trybie wieloosobowym.  Jest to idealna gra na wypoczynek po cieżkim dniu. Szczególnie, że można rozwalić wiele rzeczy, a wiadomo, to zawsze relaksuje! 
 
 Jeśli jednak, waleczne robale robiące demolkę Cię nie przekonują, to wiele podobnych gier znajdziesz na : https://growybieracz.pl/p/worms-wmd-all-stars/
 
-![Image](/assets/img/Escapist.png)
 Idąc dalej genialną grą od Team 17 jest Escapist. 
 
 Escapist, zabiera gracza prosto do więzienia, jednak z takim lekkim przymrużeniem oka :) 
+
 Gra posiada aż 12 000 bardzo pozytywnych opinii na Steamie, i jest przeceniona aż o 70%!!!
 
 Jak wiadomo, każdy więzień myśli tylko o tym jak wydostać się z więzienia. Twoim zadaniem jest wprowadzić tę myśl w życie. Wszystko zależy od Ciebie jak to zrobisz, istnieje wiele możliwości. Najpierw jednak musisz nauczyć się jak wykorzystywać przedmioty codziennego użytku do wykonania niezbędnych narzędzi do ucieczki. Musisz również dobrze zaznajomić się z planem więzienia i codziennymi obowiazkami. Uśpij czujność strażników będąc wzorowym więźniem, wykonuj pracę i stawiaj się na apelach. Wszystkie podejmowane przez Ciebie akcje przybliżą Cię do wymarzonej wolności! 
