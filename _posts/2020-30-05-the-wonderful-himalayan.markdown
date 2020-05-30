@@ -14,7 +14,7 @@ W promocji znajdują się między innymi wszystkie części legendarnego klasyka
 
 Robaczki, niby nie groźne stworzonka, a jednak. Robaki, w grze worms, potrafią się nieźle posługiwać wszelkiego rodzaju bronią. Rzucać świętymi granatami, puszczać wybuchające owce, czy też zlecać nalot bombowy. Wszystko to w walce o terytorium na losowo generowanym świecie. Twórcy gry umożliwiają wiele trybów gry. Każdy znajdzie coś dla siebie. Można grać samemu przeciwko komputerowi, jak i zniszczyć znajomych w trybie wieloosobowym.  Jest to idealna gra na wypoczynek po cieżkim dniu. Szczególnie, że można rozwalić wiele rzeczy, a wiadomo, to zawsze relaksuje! 
 
-Jeśli jednak, waleczne robale robiące demolkę Cię nie przekonują, to wiele podobnych gier znajdziesz na : https://growybieracz.pl/p/worms-wmd-all-stars/
+Jeśli jednak, waleczne robale robiące demolkę Cię nie przekonują, to wiele podobnych gier znajdziesz na : [Link](https://growybieracz.pl/p/worms-wmd-all-stars/)
 
 Idąc dalej genialną grą od Team 17 jest Escapist. 
 
@@ -26,7 +26,7 @@ Jak wiadomo, każdy więzień myśli tylko o tym jak wydostać się z więzienia
 
 Jest to gra z pixelową grafiką, w której musisz strategicznie myśleć. Możesz wykonać wiele przedmiotów poprzez system craftingowy, jednak pamiętaj, że jeśli strażnicy przyłapią Cię z kontrabandą, to nie będą zadowoleni. 
 
-Jak myślisz czy Tobie uda się uciec? Jeśli nie jesteś jednak pewien, czy ucieczka z więzienia to coś dla Ciebie, znajdź podobne gry strategiczne na : https://growybieracz.pl/p/anno-1800/
+Jak myślisz czy Tobie uda się uciec? Jeśli nie jesteś jednak pewien, czy ucieczka z więzienia to coś dla Ciebie, znajdź podobne gry strategiczne na : [Link](https://growybieracz.pl/p/anno-1800/)
 
 Były robale, było więzienie, a może by teraz zmienić to totalnie i przenieść się do wielkiej kuchni? Czemu nie, świetnym tytułem z arsenały Team 17 jest gra Overcooked. 
 
