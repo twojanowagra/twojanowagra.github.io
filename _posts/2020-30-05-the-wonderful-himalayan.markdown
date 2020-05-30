@@ -11,13 +11,13 @@ Steam czyli platforma do cyfrowej dystrybucji gier, co tydzień oferuje graczom 
 W weekend od 29.05 do 1.06 można zakupić te gry w przecenach sięgająchych aż 90%!
 
 W promocji znajdują się między innymi wszystkie części legendarnego klasyka Worms!
-img: worms.png
+![Image](/assets/img/worms.png)
 
 Robaczki, niby nie groźne stworzonka, a jednak. Robaki, w grze worms, potrafią się nieźle posługiwać wszelkiego rodzaju bronią. Rzucać świętymi granatami, puszczać wybuchające owce, czy też zlecać nalot bombowy. Wszystko to w walce o terytorium na losowo generowanym świecie. Twórcy gry umożliwiają wiele trybów gry. Każdy znajdzie coś dla siebie. Można grać samemu przeciwko komputerowi, jak i zniszczyć znajomych w trybie wieloosobowym.  Jest to idealna gra na wypoczynek po cieżkim dniu. Szczególnie, że można rozwalić wiele rzeczy, a wiadomo, to zawsze relaksuje! 
 
 Jeśli jednak, waleczne robale robiące demolkę Cię nie przekonują, to wiele podobnych gier znajdziesz na : https://growybieracz.pl/p/worms-wmd-all-stars/
 
-img: escapist.png
+![Image](/assets/img/escapist.png)
 Idąc dalej genialną grą od Team 17 jest Escapist. 
 
 Escapist, zabiera gracza prosto do więzienia, jednak z takim lekkim przymrużeniem oka :) 
