@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Steam nie przestaje zaskakiwać!"
-img: wycinekobrazkowy.png# Add image post (optional)
+img: Team17.png
 date: 2017-07-05 12:52:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Gaming, Gra, Rozrywka,Okazja]
