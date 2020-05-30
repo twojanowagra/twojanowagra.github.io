@@ -17,7 +17,7 @@ Robaczki, niby nie groźne stworzonka, a jednak. Robaki, w grze worms, potrafią
 
 Jeśli jednak, waleczne robale robiące demolkę Cię nie przekonują, to wiele podobnych gier znajdziesz na : https://growybieracz.pl/p/worms-wmd-all-stars/
 
-![Image](/assets/img/escapist.png)
+![Image](/assets/img/Escapist.png)
 Idąc dalej genialną grą od Team 17 jest Escapist. 
 
 Escapist, zabiera gracza prosto do więzienia, jednak z takim lekkim przymrużeniem oka :) 
