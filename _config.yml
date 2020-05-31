@@ -9,8 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://twojanowagra.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-url("/assets/video/.jpg")
-image:(/assets/img/dark.jpg) # add banner video. Add your video file to the folder video
+image: (/assets/img/dark.jpg) # add banner video. Add your video file to the folder video
 banner-title: # add banner title
 banner-desc: # add banner description
 
